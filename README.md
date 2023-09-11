@@ -4,7 +4,7 @@ bgscan漏洞集成工具
 
 6.项目文件结构：
 
-├── README.md ##使用说明
+`├── README.md ##使用说明
 ├── fofamap.py ##fofamap主程序
 │   ├── linux ##linux版主程序
 │   │   ├── nuclei_386
@@ -19,3 +19,4 @@ bgscan漏洞集成工具
 │       └── nuclei_amd.exe
 ├── nuclei.py ##nuclei api调用类
 ├── requirements.txt ##依赖包要求
+`
