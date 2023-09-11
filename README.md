@@ -28,8 +28,8 @@ bgscan漏洞集成工具
 
 | 编 号          | 选项           | 说明           | 下载         |
 |  -------------| ------------- | ------------- | ------------- |
-| 1  | Content Cell  | Content Cell  | Content Cell  |
-| 2  | Content Cell  | Content Cell  | Content Cell  |
+| 1  | Nmap  | 本机安装nmap可以命令行直接调用的  | Content Cell  |
+| 2  | SQLMap  | 本机安装nmap可以命令行直接调用的  | Content Cell  |
 | 3  | Content Cell  | Content Cell  | Content Cell  |
 | 4  | Content Cell  | Content Cell  | Content Cell  |
 | 5  | Content Cell  | Content Cell  | Content Cell  |
