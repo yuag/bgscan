@@ -1,8 +1,11 @@
 # bgscan
-bgscan漏洞集成工具
+bgscan漏洞集成工具：
+
+<br>
+<br>
 
 
-6.项目文件结构：
+# 1.项目文件结构：
 
 ```
 ├── README.md ##使用说明
@@ -22,9 +25,10 @@ bgscan漏洞集成工具
 ├── requirements.txt ##依赖包要求
 ```
 
+<br>
+<br>
 
-
-7.功能说明
+# 2.功能说明
 
 | 编 号          | 选项           | 说明           | 下载         |
 |  -------------| ------------- | ------------- | ------------- |
@@ -36,15 +40,20 @@ bgscan漏洞集成工具
 | 6  | Content Cell  | Content Cell  | Content Cell  |
 | 10  | Content Cell  | Content Cell  | Content Cell  |
 
+<br>
+<br>
+
+# 3.环境配置
+
+1、测试环境Mac，所有命令都是python3执行的。
+
+2、Python版本：3.7以上版本(本机测试3.11)。
+
+3、使用带(GUI)系统，不然有一些工具没法使用。
+
+<br>
+<br>
 
 
-
-
-
-
-
-
-
-
-
+# 4.使用方法
 
