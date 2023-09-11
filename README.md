@@ -21,3 +21,13 @@ bgscan漏洞集成工具
 ├── nuclei.py ##nuclei api调用类
 ├── requirements.txt ##依赖包要求
 ```
+
+
+
+7.功能说明
+
+| 工具           | 说明          | 下载           | Second Header |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
