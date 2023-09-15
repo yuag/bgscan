@@ -8,21 +8,50 @@ bgscan漏洞集成工具：
 # 1.项目文件结构：
 
 ```
-├── README.md ##使用说明
-├── fofamap.py ##fofamap主程序
-│   ├── linux ##linux版主程序
-│   │   ├── nuclei_386
-│   │   ├── nuclei_amd
-│   │   ├── nuclei_arm
-│   │   └── nuclei_armv6
-│   ├── macos ##macos版主程序
-│   │   ├── nuclei_amd
-│   │   └── nuclei_arm
-│   └── windows ##windows版主程序
-│       ├── nuclei_386.exe
-│       └── nuclei_amd.exe
-├── nuclei.py ##nuclei api调用类
-├── requirements.txt ##依赖包要求
+├── bgscan.py
+├── awvs
+│   ├── awvs.py
+│   └── url.txt
+├── bgscan.py
+├── fofa
+│   ├── __init__.py
+│   └── fofa.py
+├── nmap_scan
+│   ├── __init__.py
+│   └── nmap_scan.py
+├── nuclei
+│   ├── nuclei.py
+│   ├── poc
+│   │   ├── xss-fuzz.yaml
+│   │   ├── xss-path.yaml
+│   │   ├── xss-reflected.yaml
+│   │   ├── xss-stored.yaml
+│   │   ├── xxe.yaml
+│   │   ├── xxe_lfi.yaml
+│   │   ├── xxljob-panel.yaml
+│   │   ├── xxljob-workflow.yaml
+│   │   └── yapi-workflow.yaml
+│   └── url.txt
+├── pocsuite3
+│   ├── __init__.py
+│   ├── poc
+│   │   ├── ActiveMQ_put_CVE_2016_3088.py
+│   │   ├── Apache 2.4.49 Path Traversal.py
+│   │   ├── activemq_cve-2015-1830_unauthorized_rce.py
+│   │   └── admin_login_Bypass.py
+│   └── pocsuite3.py
+├── socks5
+│   ├── sk5.py
+│   └── socks5.txt
+└── xray
+    ├── __init__.py
+    ├── config.yaml
+    ├── module.xray.yaml
+    ├── plugin.xray.yaml
+    ├── url.txt
+    ├── xray.py
+    ├── xray.yaml
+    └── xray_darwin_amd64
 ```
 
 <br>
