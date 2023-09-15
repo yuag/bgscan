@@ -33,13 +33,13 @@ bgscan漏洞集成工具：
 | 编 号          | 选项           | 说明           | 下载         |
 |  -------------| ------------- | ------------- | ------------- |
 | 1  | Nmap  | 命令  | Content Cell  |
-| 2  | wvs  |   | GUI  |   Content Cell  |
+| 2  | wvs  |  GUI |   |   Content Cell  |
 | 3  | pocsuite3  | 命令 | Content Cell  |
 | 4  | fofa    | 命令  | Content Cell  |
 | 5  | nuclei  | GUI  | Content Cell  |
 | 6  | 代理下载  | 命令 | Content Cell  |
 | 7  | xray  | GUI  | Content Cell  |
-| 10  | 退出  | Content Cell  | Content Cell  |
+| 10  | 退出  |   | Content Cell  |
 <br>
 <br>
 
