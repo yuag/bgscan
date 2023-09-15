@@ -88,7 +88,7 @@ bgscan漏洞集成工具
 
 # 4.使用方法
 
-1. bgscan.py  31行代码设置钉钉机器人扫描完成提醒
+0.bgscan.py  31行代码设置钉钉机器人扫描完成提醒。
 
 
 ![image](https://github.com/yuag/bgscan/assets/34123873/9f7c76be-d568-4532-a72b-8ed918022280)
@@ -97,6 +97,36 @@ bgscan漏洞集成工具
 
 
 
+1.Nmap
+
+2.wvs
+
+
+3.pocsuite3
+
+
+
+
+
+
+4.fofa扫描
+
+bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
+
+![image](https://github.com/yuag/bgscan/assets/34123873/e95e6442-55a6-425e-af98-4208fc841959)
+
+
+
+
+5.nuclei
+poc推荐下载地址：https://github.com/ExpLangcn/NucleiTP
+
+
+6.代理下载
+
+
+
+7.xray
 
 
 
