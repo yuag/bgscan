@@ -116,7 +116,7 @@ bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
 ![image](https://github.com/yuag/bgscan/assets/34123873/e95e6442-55a6-425e-af98-4208fc841959)
 
 
-
+执行成功保存在根目录下fofa_xxx.com.csv
 
 5.nuclei
 poc推荐下载地址：https://github.com/ExpLangcn/NucleiTP
@@ -124,10 +124,11 @@ poc推荐下载地址：https://github.com/ExpLangcn/NucleiTP
 
 6.代理下载
 
-
+保存文件在根目录下，socks5,txt,socks4.txt
 
 7.xray
 
+目录下面执行一次xray，然后GUI在执行一次生成yaml在根目录下不然没法使用。(调用/加载一直显示少yaml文件，无法解决！！！)
 
 
 
