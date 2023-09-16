@@ -120,12 +120,19 @@ bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
 
 ![image](https://github.com/yuag/bgscan/assets/34123873/e95e6442-55a6-425e-af98-4208fc841959)
 
-添加了URL去重功能
+路径：bgscan\fofa\fofa.py
+85到88行添加fofa账号秘钥
 
+![image](https://github.com/yuag/bgscan/assets/34123873/d8e3c92a-301c-4fa1-8681-c992a7c7b29b)
+
+
+
+添加了URL去重功能
 执行成功保存在根目录下fofa_xxx.com.csv
 <br>
 <br>
 5.nuclei
+
 poc推荐下载地址：https://github.com/ExpLangcn/NucleiTP
 
 <br>
