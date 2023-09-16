@@ -98,17 +98,21 @@ bgscan漏洞集成工具
 
 
 1.Nmap
+<br>
+<br>
 
 2.wvs
 
-
+<br>
+<br>
 3.pocsuite3
 
 
 
 
 
-
+<br>
+<br>
 4.fofa扫描
 
 bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
@@ -118,22 +122,27 @@ bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
 添加了URL去重
 
 执行成功保存在根目录下fofa_xxx.com.csv
-
+<br>
+<br>
 5.nuclei
 poc推荐下载地址：https://github.com/ExpLangcn/NucleiTP
 
-
+<br>
+<br>
 6.代理下载
 
 保存文件在根目录下，socks5,txt,socks4.txt
 
+<br>
+<br>
 7.xray
 
 目录下面执行一次xray，然后GUI在执行一次生成yaml在根目录下不然没法使用。(调用/加载一直显示少yaml文件，无法解决！！！)
 
 
 
-
+<br>
+<br>
 # 5.参考
 
 
