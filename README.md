@@ -127,7 +127,7 @@ bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
 
 
 
-添加了URL去重功能
+添加了URL去重功能<br>
 执行成功保存在根目录下fofa_xxx.com.csv
 <br>
 <br>
