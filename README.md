@@ -88,7 +88,8 @@ bgscan漏洞集成工具
 
 # 4.使用方法
 
-0.bgscan.py  31行代码设置钉钉机器人扫描完成提醒。
+0.钉钉设置  
+bgscan.py 31行代码设置钉钉机器人扫描完成提醒。
 
 
 ![image](https://github.com/yuag/bgscan/assets/34123873/9f7c76be-d568-4532-a72b-8ed918022280)
