@@ -115,6 +115,7 @@ bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
 
 ![image](https://github.com/yuag/bgscan/assets/34123873/e95e6442-55a6-425e-af98-4208fc841959)
 
+添加了URL去重
 
 执行成功保存在根目录下fofa_xxx.com.csv
 
