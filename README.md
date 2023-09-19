@@ -1,6 +1,10 @@
 # bgscan
 bgscan漏洞集成工具
 
+注：部分代码来源网络直接修改使用的。
+
+
+
 ![image](https://github.com/yuag/bgscan/assets/34123873/654e3d2a-225c-4654-9d72-e66301fbe291)
 
 
