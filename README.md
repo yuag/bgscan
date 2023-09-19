@@ -1,6 +1,9 @@
 # bgscan
 bgscan漏洞集成工具
 
+<img width="734" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/12fee0b1-9675-43f0-be52-16d28b0ab99e">
+
+
 <br>
 <br>
 
@@ -100,16 +103,30 @@ bgscan.py 31行代码设置钉钉机器人扫描完成提醒。
 <br>
 <br>
 1.Nmap
+
+<img width="1676" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/3e47afdd-9a51-4cb0-95d8-40885b5812e6">
+
+
+
 <br>
 <br>
 
 2.wvs
+
+只有添加网站功能。
+
+<img width="410" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/4e241d88-60b9-4f3d-a7d5-f25055507e0d">
+
+
 
 <br>
 <br>
 3.pocsuite3
 
 
+<img width="1576" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/59913c12-eee4-4723-bcea-f7ccbb7b48f8">
+
+<img width="1678" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/5eae7438-dca2-400e-8174-7ed0492d83f7">
 
 
 
@@ -126,6 +143,7 @@ bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
 
 ![image](https://github.com/yuag/bgscan/assets/34123873/d8e3c92a-301c-4fa1-8681-c992a7c7b29b)
 
+<img width="1103" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/814610b5-e037-453c-a284-464f7dca631d">
 
 
 添加了URL去重功能<br>
@@ -134,11 +152,21 @@ bgscan.py  90行代码设置python3需设置自己的python环境执行命令。
 <br>
 5.nuclei
 
+<img width="1020" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/a381618d-4bf7-4583-8ac6-230921fb1843">
+
+根目录下面会出现扫描过程：nuclei.txt
+
+nuclei下载系统适应版本：https://github.com/projectdiscovery/nuclei/releases
+
 poc推荐下载地址：https://github.com/ExpLangcn/NucleiTP
 
 <br>
 <br>
 6.代理下载
+
+
+<img width="1413" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/4dee993a-c2c8-49d1-8c01-fe0de3cc160a">
+
 
 保存文件在根目录下，socks5,txt,socks4.txt
 
@@ -146,16 +174,14 @@ poc推荐下载地址：https://github.com/ExpLangcn/NucleiTP
 <br>
 7.xray
 
-目录下面执行一次xray，然后GUI在执行一次生成yaml在根目录下不然没法使用。(调用/加载一直显示少yaml文件，无法解决！！！)
+xray目录下面执行一次xray，然后GUI在执行一次生成yaml在根目录下不然没法使用。(调用/加载一直显示少yaml文件，无法解决！！！)
 
 
+<img width="1603" alt="image" src="https://github.com/yuag/bgscan/assets/34123873/07951c3d-06ce-49c9-84d6-1c7e4bf1610f">
 
+扫描结束有漏洞根目录下面有个 xray.html 文件
 <br>
 <br>
-
-# 5.参考
-
-
 
 
 
