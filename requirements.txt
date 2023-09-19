@@ -1,0 +1,9 @@
+ttkbootstrap==1.10.1
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+requests==2.31.0
+urllib3==2.0.3
+ttkbootstrap==1.10.1
+pocsuite3==2.0.5
+python-nmap==0.7.1
